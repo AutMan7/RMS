@@ -39,16 +39,12 @@ RMS 安全客户端具备以下特点：
 
 运行以下命令即可安装：
 
-- 线路1（GitHub 官方地址，若无法访问请使用其他线路）：
 
 ```
-bash <(curl -s -L https://raw.githubusercontent.com/EvilGenius-dot/RMS/main/install.sh)
+bash <(curl -s -L https://raw.githubusercontent.com/AutMan7/RMS/refs/heads/main/install.sh)
 ```
 
-- 线路2：
 
-```
-bash <(curl -s -L -k https://rustminersystem.com/install.sh)
 ```
 
 ## OpenWRT 安装
@@ -65,14 +61,14 @@ wget -N https://rustminersystem.com/install.sh; chmod +x ./install.sh; ./install
 
 ### 图形化界面版本
 - 下载地址：  
-  https://github.com/EvilGenius-dot/RMS/raw/main/windows-gui/rms.exe
+  https://github.com/AutMan7/RMS/raw/main/windows-gui/rms.exe
   
 - 如遇白屏问题，请安装 WebView2：  
-  https://github.com/EvilGenius-dot/RMS/raw/main/windows-gui/MicrosoftEdgeWebview2Setup.exe
+  https://github.com/AutMan7/RMS/raw/main/windows-gui/MicrosoftEdgeWebview2Setup.exe
 
 ### 非图形化命令行版本
 - 下载地址：  
-    https://github.com/EvilGenius-dot/RMS/raw/main/windows-no-gui/rms.exe
+    https://github.com/AutMan7/RMS/raw/main/windows-no-gui/rms.exe
 
 ## 旧版RMS2安装
 
@@ -81,7 +77,7 @@ wget -N https://rustminersystem.com/install.sh; chmod +x ./install.sh; ./install
 - 线路1（GitHub 官方地址，若无法访问请使用其他线路）：
 
 ```
-bash <(curl -s -L https://raw.githubusercontent.com/EvilGenius-dot/RMS/main/OLD_2/install.sh)
+bash <(curl -s -L https://raw.githubusercontent.com/AutMan7/RMS/main/OLD_2/install.sh)
 ```
 
 - 线路2：
@@ -92,14 +88,14 @@ bash <(curl -s -L -k https://rustminersystem.com/OLD2_install.sh)
 
 ### 旧版RMS2图形化界面版本
 - 下载地址：  
-  https://github.com/EvilGenius-dot/RMS/raw/main/OLD_2/windows-gui/rms.exe
+  https://github.com/AutMan7/RMS/raw/main/OLD_2/windows-gui/rms.exe
   
 - 如遇白屏问题，请安装 WebView2：  
-  https://github.com/EvilGenius-dot/RMS/raw/main/OLD_2/windows-gui/MicrosoftEdgeWebview2Setup.exe
+  https://github.com/AutMan7/RMS/raw/main/OLD_2/windows-gui/MicrosoftEdgeWebview2Setup.exe
 
 ### 非图形化命令行版本
 - 下载地址：  
-    https://github.com/EvilGenius-dot/RMS/raw/main/OLD_2/windows-no-gui/rms.exe
+    https://github.com/AutMan7/RMS/raw/main/OLD_2/windows-no-gui/rms.exe
 
 # 使用指南
 
